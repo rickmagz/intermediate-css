@@ -27,11 +27,26 @@
 
 .social-list {
   list-style: none;
+  text-align: center;
   padding: 0;
+  font-size: 18px;
 }
 
 .social-list > li {
   display: inline-block;
+  background: rgb(168, 111, 111);
+  width: 3.5em;
+  height: 3.5em;
+  border-radius:100px;
+  box-sizing: border-box;
+  padding: 1.25em;
+  font-size: 1em;
+  line-height: 1;
+}
+
+.social-list a{
+  text-decoration: none;
+  color: white;
 }
 
 .bio-box img {
@@ -44,4 +59,11 @@
   margin: -40px 0 1em;
   text-align: center;
 }
+
+.full-hero{
+  background-color: skyblue;
+  height: 40vh;
+}
+
+
 
