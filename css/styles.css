@@ -3,6 +3,7 @@
   float: left;
   font-size: 1rem;
   padding: 2%;
+  padding-top: 0;
   width: 23%;
   box-sizing: border-box;
   margin: 40px 1% 0;
@@ -43,3 +44,4 @@
   margin: -40px 0 1em;
   text-align: center;
 }
+
